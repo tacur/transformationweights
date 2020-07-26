@@ -194,7 +194,7 @@ input:-webkit-autofill:focus {
 }
 
 .gray-bg {
-    background-color: #f2fefe;
+    background-color: var(--third);
 }
 
 /**
