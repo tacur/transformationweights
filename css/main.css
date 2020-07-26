@@ -1,7 +1,15 @@
 :root{
+       /*
     --primary: #2f60c3;
     --secondary: #138fc2;
     --third: #75cbe7;
+    --white: #ffffff;
+    --black: #000000;
+    */
+
+    --primary: #7f7f7f;
+    --secondary: #9b9b9b;
+    --third: #d6d6d6;
     --white: #ffffff;
     --black: #000000;
 }
