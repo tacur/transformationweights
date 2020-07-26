@@ -558,6 +558,7 @@
                 <div class="page-title">
                     <h2>Unsere Firmengründung</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit voluptates, temporibus at, facere harum fugiat!</p>
+                    <div id="instafeed"></div>
                 </div>
             </div>
         </div>
@@ -993,6 +994,13 @@
 
 
     <!--Vendor-JS-->
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/instafeed.js/1.4.1/instafeed.min.js"></script>
+    <script type="text/javascript">
+        var feed = new Instafeed({
+          accessToken: 'IGQVJWdjIwUW84cFpTRXdRWWtPYXFmVWRQaVJOQ1JqT2N0WDlIcThQUUJqV05OUG9IYzBodGV1Y1puMTV2M0NtNEdYSmMyRUkyM0lRT0IxWmdUNmNFMlBoYVF0QVlicFRZAa1NvRmtFNGctdEhLQk1rQgZDZD'
+        });
+        feed.run();
+    </script>
     <script src="https://account.snatchbot.me/script.js"></script><script>window.sntchChat.Init(124214)</script> 
     <script src="js/vendor/jquery-1.12.4.min.js"></script>
     <script src="js/vendor/bootstrap.min.js"></script>
