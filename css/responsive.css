@@ -106,7 +106,8 @@
         background-color: #ffffff;
     }
     .mainmenu-area #primary-menu {
-        background-color: var(--primary);
+       /* background-color: var(--primary); */
+       background-color: var(--black);
     }
     .mainmenu-area #primary-menu ul {
         overflow-y: auto;
