@@ -191,7 +191,7 @@
         });
 
 
-    // :: 7.0 Magnific-popup Video Active Code
+    /* :: 7.0 Magnific-popup Video Active Code
     if ($.fn.magnificPopup) {
         $('.video_btn').magnificPopup({
             disableOn: 0,
@@ -202,7 +202,7 @@
             fixedContentPos: false
         });
     }
-
+    */
 
 
     /* Preloader Js
