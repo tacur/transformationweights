@@ -163,7 +163,6 @@
   }
   
   .wrapper {
-    margin: auto 40px ;
     padding-top: 40px;
     padding-bottom: 40px;
   }
@@ -253,14 +252,14 @@
     background: #8FAADC;
   }
   .clash-card__unit-stats--barbarian .one-third {
-    border-right: 1px solid #8FAADC;
+    border-right: 1px solid #738cbb;
   }
   
   .clash-card__unit-stats--archer {
     background: #50533c;
   }
   .clash-card__unit-stats--archer .one-third {
-    border-right: 1px solid #50533c;
+    border-right: 1px solid #3c3f2e;
   }
   
   .clash-card__unit-stats--goblin {
