@@ -210,4 +210,8 @@
     $(window).on("load", function () {
         $('.preloader').fadeOut(500);
     });
+        
 })(jQuery);
+
+
+  
